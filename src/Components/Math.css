@@ -1,0 +1,17 @@
+.Form {
+    padding: 10px;
+  }
+  .Label {
+    padding-right: 10px;
+  }
+  
+  .Button {
+    border: 1px solid #000000;
+    padding: 5px;
+    margin: 0px 20px 0px 10px; 
+  }
+  
+  .Result {
+    width: 100px;
+    border: 2px solid #000000;
+  }
